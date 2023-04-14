@@ -17,3 +17,8 @@
  * * git reset --mixed
  * ! git reset --mixed [hash commit] - эта команда откатывает два этапа (--mixed стоит по дефолту)
  */
+
+/**
+ * * git reset --hard
+ * ! git reset --hard [hash commit] - эта команда откатывает сразу три этапа (сама опасная :D)
+ */
