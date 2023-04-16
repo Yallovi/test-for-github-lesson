@@ -1,5 +1,5 @@
 /**
- * * git revert (revert - возвращаться)
+ * * git revert (revert - возвращаться)!!
  *
  * @format
  */
